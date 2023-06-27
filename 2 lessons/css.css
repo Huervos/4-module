@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+
+.h2{
+    border: 10px solid green;
+    border-radius: 100px;
+    font-size: 50px;
+    background: rgb(rgb(38, 0, 255));
+    padding: 8px;
+}
+.p1{
+    font-size: 24px;
+    text-align: center;
+    font-style: oblique;
+    box-shadow: 0px 5px 5px green;
+}
